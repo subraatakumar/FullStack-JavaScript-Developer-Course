@@ -1,4 +1,6 @@
 # FullStack-JavaScript-Developer-Course
+
+![alt text](https://github.com/subratsir/FullStack-JavaScript-Developer-Course/blob/main/1.jpg?raw=true)
 This course will help to be a JavaScript Developer. You will be able to create dynamic websites and interactive with JavaScript! You'll create features and stand-alone applications. This is a 4 in 1 course.
 1. HTML and CSS
 2. JavaScript
