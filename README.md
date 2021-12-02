@@ -7,6 +7,24 @@ This course will help to be a JavaScript Developer. You will be able to create d
 3. NodeJs
 4. Getting Hired
 
+You have an option available to complete this course in 3 parts : [part1](https://github.com/subratsir/FullStack-JavaScript-Developer-Course/blob/main/Full-Stack-Web-Developer-Part1.md) [part2](https://github.com/subratsir/FullStack-JavaScript-Developer-Course/blob/main/Full-Stack-Web-Developer-Part2.md) [part3](https://github.com/subratsir/FullStack-JavaScript-Developer-Course/blob/main/Full-Stack-Web-Developer-Part3.md)
+
+## Age Limit
+We know there is no age limit to learn anything. But as it is a professional course and after completion of this you will be job ready so you should have a legal elligible age as per your country.
+
+## Prerequsites
+This course is designed for complete beginners so no prior programming knowledge required. But you should have the following basic computer knowledges :
+- How to switch on a computer ?
+- How to write text files ?
+- How to surf internet in a browser ?
+- What is hardware and software ? What is the difference between system software and application software ?
+
+## Hardware requirements
+- You must have access to a desktop or laptop computer. (This does not mean that you can not learn this course with out a desktop or laptop. But definitely you will not be able to get 100% out of it.)
+
+## Software Requirement
+- Any text editor to write programs. (VSCode is prefered which is a free text editor.)
+
 ## HTML & CSS - The Outline
 
 - Introduction to HTML and CSS
@@ -102,19 +120,6 @@ This course will help to be a JavaScript Developer. You will be able to create d
   - Applying for web development jobs
   - Handling a Job Offer
 - Conclusion  
-
-## Prerequsites
-This course is designed for complete beginners so no prior programming knowledge required. But you should have the following basic computer knowledges :
-- How to switch on a computer ?
-- How to write text files ?
-- How to surf internet in a browser ?
-- What is hardware and software ? What is the difference between system software and application software ?
-
-# Hardware requirements
-- You must have access to a desktop or laptop computer. (This does not mean that you can not learn this course with out a desktop or laptop. But definitely you will not be able to get 100% out of it.)
-
-# Software Requirement
-- Any text editor to write programs. (VSCode is prefered which is a free text editor.)
 
 ## Final Words
 After successful completion of this course you have learnt how to be a Successful full stack web developer. But you have to keep practicing. Push your strength to create some nice projects which you can reflect in your portfolio.
