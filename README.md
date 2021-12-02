@@ -102,7 +102,20 @@ This course will help to be a JavaScript Developer. You will be able to create d
   - Applying for web development jobs
   - Handling a Job Offer
 - Conclusion  
-  
+
+## Prerequsites
+This course is designed for complete beginners so no prior programming knowledge required. But you should have the following basic computer knowledges :
+- How to switch on a computer ?
+- How to write text files ?
+- How to surf internet in a browser ?
+- What is hardware and software ? What is the difference between system software and application software ?
+
+# Hardware requirements
+- You must have access to a desktop or laptop computer. (This does not mean that you can not learn this course with out a desktop or laptop. But definitely you will not be able to get 100% out of it.)
+
+# Software Requirement
+- Any text editor to write programs. (VSCode is prefered which is a free text editor.)
+
 ## Final Words
 After successful completion of this course you have learnt how to be a Successful full stack web developer. But you have to keep practicing. Push your strength to create some nice projects which you can reflect in your portfolio.
 
