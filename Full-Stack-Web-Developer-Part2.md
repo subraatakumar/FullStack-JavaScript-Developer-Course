@@ -25,8 +25,8 @@ This course is designed for complete beginners so no prior programming knowledge
 - Any text editor to write programs. (VSCode is prefered which is a free text editor.)
 
 ## Duration
-13 Sessions of 1 Hour each
-2 Sessions per Week
+- 13 Sessions of 1 Hour each
+- 2 Sessions per Week
 
 ## JavaScript-The Outline
 
