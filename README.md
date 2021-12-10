@@ -121,6 +121,18 @@ This course is designed for complete beginners so no prior programming knowledge
   - Handling a Job Offer
 - Conclusion  
 
+## Projects that we will write
+1. Landing Page
+2. Rock Paper Scissors
+3. Calculator
+4. Library
+5. Tic Tac Toe
+6. Todo List
+7. Weather App
+8. Battleship
+9. CV Creator
+10. Shopping Cart
+
 ## Final Words
 After successful completion of this course you have learnt how to be a Successful full stack web developer. But you have to keep practicing. Push your strength to create some nice projects which you can reflect in your portfolio.
 
